@@ -5,16 +5,8 @@
 I make complex technical systems learnable, and I build AI that proves it worked.
 
 - **Chief Digital Officer** at SG Code Campus (AWS and Google Cloud training partner). I teach generative and agentic AI to enterprise teams
-- **Co-organiser** of the [Agentic Builders Collective](https://agenticbuilders.sg), a Singapore community of 1,000+ builders working with Claude Code, Codex and Gemini. As a Google Cloud Authorized Trainer (GCAT), I'm the de facto Gemini go-to person
-- **AWS Champion Authorized Instructor** · **AWS Solutions Architect Professional** · **Google Cloud Professional Data Engineer**
+- **AWS Champion Authorized Instructor** · **AWS Solutions Architect Professional** · **Google Cloud Authorized Trainer** · **Google Cloud Professional Data Engineer**
 - Mechanical engineer (UC Berkeley, DSTA scholar) by training, tinkerer and lifelong learner at heart
-
-### Building now
-
-| Project | What it is |
-|---|---|
-| **Adept** | An AI coach that builds real fluency with agentic tools by working on your actual tasks. Private beta from Dec 2026 |
-| **Dollarado** | Pull an interest-rate lever and watch your own wallet move. Finance education by an outsider to finance, for outsiders |
 
 ### Things to try
 
@@ -28,6 +20,8 @@ I make complex technical systems learnable, and I build AI that proves it worked
 
 ### Elsewhere
 
-**[Subscribe to my newsletter](https://huilianglui.substack.com)**: what I build, measured, and what I learn along the way
+If you build with Claude Code, Codex or Gemini in Singapore, join us at the [Agentic Builders Collective](https://agenticbuilders.sg).
+
+My newsletter on [Substack](https://huilianglui.substack.com) is launching soon.
 
 [LinkedIn](https://www.linkedin.com/in/huiliang-lui-51854224/)
