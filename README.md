@@ -6,7 +6,7 @@ I make complex technical systems learnable, and I build AI that proves it worked
 
 - **Chief Digital Officer** at SG Code Campus (AWS and Google Cloud training partner). I teach generative and agentic AI to enterprise teams
 - **Co-organiser** of the [Agentic Builders Collective](https://agenticbuilders.sg), a Singapore community of 1,000+ builders working with Claude Code, Codex and Gemini. As a Google Cloud Authorized Trainer (GCAT), I'm the de facto Gemini go-to person
-- **AWS Golden Jacket** (every AWS certification) · **AWS Champion Authorized Instructor** · **Google Cloud Professional Data Engineer**
+- **AWS Champion Authorized Instructor** · **AWS Solutions Architect Professional** · **Google Cloud Professional Data Engineer**
 - Mechanical engineer (UC Berkeley, DSTA scholar) by training, tinkerer and lifelong learner at heart
 
 ### Building now
