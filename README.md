@@ -22,6 +22,6 @@ I make complex technical systems learnable, and I build AI that proves it worked
 
 If you build with Claude Code, Codex or Gemini in Singapore, join us at the [Agentic Builders Collective](https://agenticbuilders.sg).
 
-My newsletter on [Substack](https://huilianglui.substack.com) is launching soon.
+My newsletter, [The Pragmatic Architect](https://huilianglui.substack.com), is live. First post: [First impressions of Gemini 4 Argon](https://huilianglui.substack.com/p/first-impressions-of-gemini-4-argon).
 
 [LinkedIn](https://www.linkedin.com/in/huiliang-lui-51854224/)
